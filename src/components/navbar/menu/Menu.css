@@ -1,0 +1,28 @@
+
+.menu{
+    width: 100%;
+    min-height: 70px;
+    /* background: green; */
+    float: left;
+}
+
+.menu ul{
+    padding: 0px;
+    margin: 0px;
+}
+
+.menu ul li{
+    float: left;
+    list-style-type: none;
+    margin: 5px;
+    padding: 5px;
+    font-size: 14px;
+    color: #B0B2B3;
+    text-decoration: none;
+    
+}
+
+.active{
+    color: red;
+    font-weight: bolder;
+}

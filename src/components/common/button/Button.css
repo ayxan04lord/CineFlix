@@ -1,0 +1,10 @@
+
+.myButton{
+    width: 40px;
+    height: 40px;
+    background-color: #F8ED46;
+    /* margin-left: 5px; */
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    /* color: white; */
+}
